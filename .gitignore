@@ -2,6 +2,7 @@
 data
 models
 wandb
+ArabMindGPT
 
 __pycache__/
 *.py[cod]
